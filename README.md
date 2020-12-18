@@ -1,1 +1,2 @@
-# C-Paper-2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
